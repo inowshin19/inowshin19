@@ -36,7 +36,7 @@ Here are some of the projects I'm proud to have worked on:
 2. **Machine Learning for Medical Data Analysis**: Built a predictive model to forecast future ailments based on past medical data.
    - **Tech stack**: Python, Scikit-learn
 
-3. **OPC2AAS**: Implemented a secure RESTful API for logging and retrieving user activity.
+3. **OPC2AAS**: Transfered OPC UA data to build an AAS and create Files containing the information that can also be downloaded.
    - **Tech stack**: Java, AAS Web UI, eclipse-basyx, Spring Boot
 
 4. **ETL Pipeline for Consent Board Display**: Designed and deployed an ETL pipeline for data analysis and reporting.
