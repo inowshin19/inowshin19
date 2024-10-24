@@ -36,8 +36,9 @@ Here are some of the projects I'm proud to have worked on:
 2. **Machine Learning for Medical Data Analysis**: Built a predictive model to forecast future ailments based on past medical data.
    - **Tech stack**: Python, Scikit-learn
 
-3. **OPC2AAS**: Transfered OPC UA data to build an AAS and create Files containing the information that can also be downloaded.
+3. **[OPC2AAS](https://github.com/eclipse-basyx/basyx-applications/tree/main)**: Transfered OPC UA data to build an AAS and create Files containing the information that can also be downloaded. It is a part of basyx-applications. This specific project was developed with one collaborator.
    - **Tech stack**: Java, AAS Web UI, eclipse-basyx, Spring Boot
+   - **Co-authored** with: Aaron Zielstorff
 
 4. **ETL Pipeline for Consent Board Display**: Designed and deployed an ETL pipeline for data analysis and reporting.
    - **Tech stack**: Python, PostgreSQL
