@@ -30,7 +30,7 @@ Here's a list of technologies I frequently work with:
 ### 🌟 Highlighted Projects
 Here are some of the projects I'm proud to have worked on:
 
-1. **Test Orchestrator**: Validates submodels for IDTA compliance, allowing users to test both their own and standardized submodels via the AAS Web UI.
+1. **[Test Orchestrator](https://github.com/eclipse-basyx/basyx-applications/tree/main/test-orchestrator)**: Validates submodels for IDTA compliance, allowing users to test both their own and standardized submodels via the AAS Web UI.
    - **Tech stack**: Java, AAS Web UI, REST API
 
 2. **Machine Learning for Medical Data Analysis**: Built a predictive model to forecast future ailments based on past medical data.
